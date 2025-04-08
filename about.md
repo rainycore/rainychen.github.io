@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: default
 title: About
-permalink: /about/
+nav_order: 1
 ---
 Hi! I'm I'm majoring in statistics with a double minor in computer science and mathematics at the University of Toronto. 
 I'm currently the finance and internal operations director of UTMIST. 
