@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: page
 title: Contact
-nav_order: 4
+permalink: /contact/
 ---
+
 contact page
