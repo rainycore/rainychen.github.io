@@ -1,6 +1,6 @@
 ---
-layout: default
+layout: page
 title: Projects
-nav_order: 3
+permalink: /projects/
 ---
 projects page
