@@ -1,3 +1,5 @@
-title: Rainy's Site
-description: A Jekyll-powered website
-theme: minima
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme 
+title: [Rainy Chen]
+description: [hi]
