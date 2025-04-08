@@ -3,6 +3,9 @@ layout: default
 title: Home
 ---
 
-# 👋 Welcome to My Site
+# Welcome to My Site
 
-This site is built with Jekyll and GitHub Pages!
+This is my personal website.
+
+[Check out my resume!]((https://dochub.com/rainychen8-5/r4D6EkZVZ4JdJG9RpQXW7O/chen-yu-an-resume-pdf?dt=RvgcCPG_TDZpquUsTdXb))
+
