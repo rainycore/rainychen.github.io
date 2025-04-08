@@ -1,5 +1,7 @@
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme 
-title: rainy chen
-description: hi! i'm a second year student at the University of Toronto. 
+title: Rainy Chen
+description: Hi, I'm majoring in statistics with a double minor in computer science and mathematics at the University of Toronto. 
+I'm currently the finance and internal operations director of UTMIST. I'm interested in analyzing financial data and research involving 
+optimizing the accuracy of LLMs. 
