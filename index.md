@@ -1,7 +1,7 @@
 ---
-layout: home
-title: "About"
-nav_order: 1
+layout: page
+title: About
+permalink: /about/
 ---
 <img src="/assets/img/profile.jpg" class="profile-pic" alt="Rainy Chen">
 
