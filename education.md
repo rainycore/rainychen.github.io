@@ -1,6 +1,6 @@
 ---
-layout: default
+layout: page
 title: Education
-nav_order: 2
+permalink: /education/
 ---
 education page
