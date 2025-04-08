@@ -2,6 +2,6 @@
 layout: home
 title: "Welcome"
 ---
-![My photo](assets/images/profile.jpg)
+![My photo](assests/images/profile.jpg)
 Check out my [resume](https://dochub.com/rainychen8-5/r4D6EkZVZ4JdJG9RpQXW7O/chen-yu-an-resume-pdf?dt=RvgcCPG_TDZpquUsTdXb)!
 Contact me at rainy.chen@mail.utoronto.ca. 
