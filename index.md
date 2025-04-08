@@ -3,9 +3,7 @@ layout: home
 title: "About"
 nav_order: 1
 ---
-<p align="center">
-  <img src="/assests/images/profile.jpg" alt="Rainy Chen" width="200"/>
-</p>
+<img src="/assets/img/profile.jpg" class="profile-pic" alt="Rainy Chen">
 
 Hi, I'm Yu-An (Rainy) Chen!  
 I'm majoring in statistics with a double minor in computer science and mathematics at the University of Toronto. I'm currently the finance and internal operations director of UTMIST. I'm interested in analyzing financial data and researching about optimizing LLMs' accuracy.  
