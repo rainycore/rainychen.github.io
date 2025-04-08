@@ -1,7 +1,17 @@
-remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: jeffreytse/jekyll-theme-yat
 plugins:
-- jekyll-remote-theme 
+  - jekyll-remote-theme
 title: Rainy Chen
 description: |
   Hi, I'm majoring in statistics with a double minor in computer science and mathematics at the University of Toronto. 
-  I'm currently the finance and internal operations director of UTMIST. I'm interested in analyzing financial data and researching optimizing LLMs' accuracy. 
+  I'm currently the finance and internal operations director of UTMIST. I'm interested in analyzing financial data and researching about optimizing LLMs' accuracy.
+nav:
+  - title: "About"
+    url: /about/
+  - title: "Education"
+    url: /education/
+  - title: "Projects"
+    url: /projects/
+  - title: "Contact"
+    url: /resume/
+
