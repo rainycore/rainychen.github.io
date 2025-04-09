@@ -17,9 +17,6 @@ nav:
   - title: "Contact"
     url: /contact/
 
-sass:
-  sass_dir: assets/css
-
 
 ...
 url: "https://rainycore.github.io"
